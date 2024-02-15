@@ -13,10 +13,10 @@ export const HeroCard = ({
 
     return (
 
-        <div className="col">
+        <div className="col animate__animated animate__fadeIn">
             <div className="card">
                 <div className="row no-gutters">
-                    <div className="col-4">
+                    <div className="col-4 ">
                         <img src={heroImageUrl} alt={superhero} className="card-img" />
                     </div>
 
@@ -34,7 +34,7 @@ export const HeroCard = ({
                             </p>
 
                             <Link to={`/hero/${id}`}>
-                            Ver más ...
+                            <button className="btn btn-primary"> More ...</button>
                             </Link>
                         </div>
                     </div>
