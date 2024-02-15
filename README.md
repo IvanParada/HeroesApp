@@ -74,3 +74,13 @@ https://heroes-react-ip.netlify.app/
 
 
 ## 🖥️ Demostración<a name="img"></a>
+
+
+![image](https://github.com/IvanParada/HeroesApp/assets/118088453/585affb6-f18b-4039-9162-86bdc3e5128c)
+![image](https://github.com/IvanParada/HeroesApp/assets/118088453/bf6b7328-ffe4-4239-9920-617ffe8c5f88)
+![image](https://github.com/IvanParada/HeroesApp/assets/118088453/200f6218-b3b1-49e7-897b-758aea2cf984)
+![image](https://github.com/IvanParada/HeroesApp/assets/118088453/d0c804a8-2ebc-4d23-a502-e83859e5ed88)
+
+
+
+
