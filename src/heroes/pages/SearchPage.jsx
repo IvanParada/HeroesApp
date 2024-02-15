@@ -13,7 +13,7 @@ export const SearchPage = () => {
   const heroes = getHeroByName(q)
 
   const { searchText, onInputChange } = useForm({
-    searchText: '',
+    searchText: q,
 
   })
 
